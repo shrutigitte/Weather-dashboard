@@ -29,6 +29,7 @@ In the project directory, you can run:
 ### 1. **Clone the Repository:**
 
 ### 2. `npm install`
+
 ### 3. **API Key:** OpenWeatherMap API key is used in the **App.js** and   **api.js** file.
     
 ### `npm start`
