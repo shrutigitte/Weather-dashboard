@@ -26,10 +26,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### Installation
-1. **Clone the Repository:**
-2. `cd weather-dashboard`
-3. `npm install`
-4. **API Key:** OpenWeatherMap API key is used in the **App.js** and   **api.js** file.
+### 1. **Clone the Repository:**
+
+### 2. `npm install`
+### 3. **API Key:** OpenWeatherMap API key is used in the **App.js** and   **api.js** file.
     
 ### `npm start`
 
@@ -45,15 +45,22 @@ You may also see any lint errors in the console.
 *OpenWeatherMap* - For Current weather data API.
 *React* - For building user interfaces.
 
-**Some Images of the project:-**
+### Some Images of the project:
+**Searching Delhi**
 ![Searching Delhi](image.png)
+**Searching London**
 ![Searching London](image-1.png)
+**Searching Nizamabad**
 ![Searching Nizamabad](image-2.png)
 
-*Ipad view*
+### Ipad View
+**Searching Pune on medium sized Screen**
 ![Searching Pune on medium sized screen](image-3.png)
+**Searching Hyderabad on medium sized Screen**
 ![Searching Hyderabad on medium sized screen](image-4.png)
 
-*Mobile View:-*
-![Searching Kolkatta on Mobile Device](image-5.png)
+### Mobile View:-
+**Searching Kolkata on mobile Screen**
+![Searching Kolkata on Mobile Device](image-5.png)
+**Searching New York on mobile Screen**
 ![Searching New on Mobile Device](image-6.png)
